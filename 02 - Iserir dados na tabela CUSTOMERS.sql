@@ -1,7 +1,5 @@
 -- SQLite
 
-DELETE FROM CUSTOMERS;
-
 -- Iserir
 INSERT INTO CUSTOMERS (NAME, LASTNAME, PHONE, EMAIL, ADDRESS, CITY, STATE, BIRTH_DATE) VALUES
     ('Roberto',     'Silva',        '(11) 964', 'roberto@gmail.com',    'Rua José, 32',             'São Roque',        'SP', '1987-04-25'),
