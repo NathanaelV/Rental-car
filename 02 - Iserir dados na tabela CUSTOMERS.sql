@@ -12,3 +12,6 @@ INSERT INTO CUSTOMERS (NAME, LASTNAME, PHONE, EMAIL, ADDRESS, CITY, STATE, BIRTH
     ('Dalva',       'Malheiros',    '(11) 966', 'dalva@gmail.com',      'Rua das Nogueiras, 12',    'São Paulo',        'SP', 1956-08-03),
     ('Carolina',    'Medeiros',     '(11) 935', 'carol@ig.com.br',      'Rua dos Jatobás, 1',       'Cajamar',          'SP', 1974-08-21),
     ('Marcos',      'Rodrigues',    '(11) 972', 'marcos@uol.com.br',    'Rua das Amazonas, 89',     'Recife',           'PE', 1966-05-25);
+
+-- Verificar
+SELECT * FROM CUSTOMERS;
